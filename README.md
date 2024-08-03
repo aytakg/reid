@@ -1,3 +1,3 @@
 # reid
 
-* [Korean](README-ko.md)
+* [Turkish](README.trrr.md)
