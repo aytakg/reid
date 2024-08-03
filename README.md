@@ -1,4 +1,4 @@
-# reid
+# reid read me in other languages
 
 * [Turkish](README.trrr.md)
 
