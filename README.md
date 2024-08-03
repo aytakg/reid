@@ -1,4 +1,5 @@
 # reid
 
 * [Turkish](README.trrr.md)
-:lang(en) { color: red; }
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/aytakg/reid/README.trrr.md)
+
