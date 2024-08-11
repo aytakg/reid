@@ -5,7 +5,7 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/9add3239-328e-4914-b7d1-be23f10695c6" align="left"/>
+<img src="https://github.com/user-attachments/assets/9add3239-328e-4914-b7d1-be23f10695c6" align="left" width="600"/>
 
 # read me in persian and english below
 
