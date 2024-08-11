@@ -5,8 +5,8 @@
 
 
 
+![7](https://github.com/user-attachments/assets/9add3239-328e-4914-b7d1-be23f10695c6)
 
-<img src="![7](https://github.com/user-attachments/assets/c3ed1891-7380-4f89-8893-8a31a6e06f2a)
-" align="left" width="200px"/>
+<img src="https://github.com/user-attachments/assets/9add3239-328e-4914-b7d1-be23f10695c6" align="left" width="200px"/>
 salaaaaaam
 <br clear="left"/>
